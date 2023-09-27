@@ -8,4 +8,4 @@
 Ex1:
 Ex2:
 Ex3: Feito
-Ex4:
+Ex4: Feito
